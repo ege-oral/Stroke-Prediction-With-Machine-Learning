@@ -3,15 +3,13 @@
 In this study, we will take a closer look at stroke. First of all what is stroke ? Stroke is a lifethreatening medical condition that happens when the blood supply to part of the brain is cut off.
 Although it has decreased in recent years, it is still important medical issue. A person who has had a
 stroke requires immediate treatment. The main risk factor for stroke is high blood pressure. Other risk factors include tobacco
-smoking, obesity, high blood cholesterol etc. For this reason, it is important to estimate the risk of
+smoking, obesity, high blood cholesterol and many more. For this reason, it is important to estimate the risk of
 stroke and necessary precautions should be taken. In this study we are using a dataset from kaggle.
-This dataset is used to predict whether a patient is likely to get stroke based on the input parameters
-like age, gender, hypertension etc. 
+This dataset is used to predict whether a patient is likely to get stroke based on the input parameters.
 
 ## Problem
 According to the World Health Organization (WHO) stroke is the 2nd leading cause of death
-globally, responsible for approximately 11% of total deaths. So as we mentioned this is a very serious
-issue for health. In this study we are trying to predict the possibility of having a stroke in the future.
+globally, responsible for approximately 11% of total deaths. In this study we are trying to predict the possibility of having a stroke in the future.
 
 ## Dataset
 We are using a stroke prediction dataset from kaggle.com. In this dataset we have 12
@@ -31,5 +29,5 @@ disease
 * smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown"
 * stroke: 1 if the patient had a stroke or 0 if not
 
-In this data set we have numerical attributes such as 'age', 'avg_glucose_level', 'bmi' etc. Also we
+In this data set we have numerical attributes such as 'age', 'avg_glucose_level' and 'bmi'. Also we
 have categorical attributes such as 'gender', 'Residence_type' and 'work_type'.
