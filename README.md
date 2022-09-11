@@ -36,3 +36,17 @@ have categorical attributes such as 'gender', 'Residence_type' and 'work_type'.
 Default Parameters             |  Best Parameters
 :-------------------------:|:-------------------------:
 ![image](https://user-images.githubusercontent.com/45359225/189525693-ae37ee52-1b9b-47ed-9a9b-683793e2513b.png)  |  ![image](https://user-images.githubusercontent.com/45359225/189525712-463893ad-277b-48c4-97de-c8020096c90e.png)
+
+
+|               | Algorithm     | Accuracy|
+| ------------- |:-------------:| -----:|
+| 6      | BNB | 67.090532 |
+| 0      | LR  | 83.253464 |
+| 1      | SVM | 83.356262 |
+| 3      | GNB | 84.660572 |
+| 2      | KNN | 89.018762 |
+| 4      | DT  | 90.803699 |
+| 7      | XGB | 93.239907 |
+| 5      | RF  | 93.926367 |
+	
+
