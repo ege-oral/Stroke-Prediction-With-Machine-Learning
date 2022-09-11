@@ -31,3 +31,8 @@ disease
 
 In this data set we have numerical attributes such as 'age', 'avg_glucose_level' and 'bmi'. Also we
 have categorical attributes such as 'gender', 'Residence_type' and 'work_type'.
+
+
+Default Parameters             |  Best Parameters
+:-------------------------:|:-------------------------:
+![image](https://user-images.githubusercontent.com/45359225/189525693-ae37ee52-1b9b-47ed-9a9b-683793e2513b.png)  |  ![image](https://user-images.githubusercontent.com/45359225/189525712-463893ad-277b-48c4-97de-c8020096c90e.png)
